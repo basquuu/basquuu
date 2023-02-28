@@ -4,6 +4,9 @@
 ## 💬 Skills
 ### Languages
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+### 🔭Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=basquuu&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basquuu&layout=compact&theme=swift)
 <!--
 **basquuu/basquuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
